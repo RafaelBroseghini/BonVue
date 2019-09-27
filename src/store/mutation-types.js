@@ -1,0 +1,5 @@
+export const GET_ROUTES = "getRoutes"
+export const GET_SHARED_STOPS = "getSharedStops"
+export const GET_NON_SHARED_STOPS = "getNonSharedStops"
+export const GET_ROUTES_PATHS = "getRoutesPaths"
+export const GET_ROUTES_PATHS_COLORS = "getRoutesPathsColors"
