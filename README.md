@@ -1,5 +1,5 @@
 # BonVue :bus:
-## I went on the `bongo.org` website and almost punched the screen. It sucked big time. I thought it needed some improvements. I had a Vue. :eyes:
+## I went on the `bongo.org` website... It sucked big time. I thought it needed some improvements. I had a Vue. :eyes:
 * Use as you wish! You're the hacker :thumbsup:
 ---
 
