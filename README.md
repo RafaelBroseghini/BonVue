@@ -13,10 +13,8 @@
 - The most notorious of the improvements is **render speed on selecting multiple bus routes**.
 - The current service freezes when the user selects more than 3?4? (haven't figured out) routes at the same time. (See below)
 
-BonVue (Fast :+1:)
 ![bonvue](/bonvue.gif)
 
-Original (Slow :-1:)
 ![bongooriginal](/bongooriginal.gif)
 
 ---
