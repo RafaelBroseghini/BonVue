@@ -1,4 +1,5 @@
 # BonVue :bus:
+<<<<<<< HEAD
 
 ## Motivation
 
@@ -19,6 +20,10 @@
 > Original (Slow :-1:)
 > ![bongooriginal](/bongooriginal.gif)
 
+=======
+## I went on the `bongo.org` website... It sucked big time. I thought it needed some improvements. I had a Vue. :eyes:
+* Use as you wish! You're the hacker :thumbsup:
+>>>>>>> ee807761754bcd9e2e03c8f634a14767ca4faab3
 ---
 
 ## Tools
