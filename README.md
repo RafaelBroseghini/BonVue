@@ -6,8 +6,6 @@
 - A big part of my first few weeks was spent trying to figure out what buses to take to get to where I wanted to go.
 - This is where I got pretty frustrated with the `bongo.org` service and decided to replicate it with some improvements.
 
----
-
 ## Improvements
 
 - The most notorious of the improvements is **render speed on selecting multiple bus routes**.
