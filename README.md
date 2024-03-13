@@ -2,7 +2,7 @@
 
 ## Motivation
 
-- When I first moved to IC, I had no car and depended on the bus system to get to work, downtown, etc.
+- When I first moved to Iowa City, I had no car and relied on the bus system to get to work, downtown, etc.
 - A big part of my first few weeks was spent trying to figure out what buses to take to get to where I wanted to go.
 - This is where I got pretty frustrated with the `bongo.org` service and decided to replicate it with some improvements.
 
@@ -10,6 +10,9 @@
 
 - The most notorious of the improvements is **render speed on selecting multiple bus routes**.
 - The current service freezes when the user selects more than 3?4? (haven't figured out) routes at the same time. (See below)
+
+### Comparison
+
 - GIFs in order (top/bottom): BonVue, `Bongo` original
 
 ![bonvue](/bonvue.gif)
@@ -21,8 +24,6 @@
 - AWS Lambda
 - AWS API Gateway
 - Vue.js
-- Python
-  - To massage data and feed into AWS API Gateway.
 
 ## Future Add-ons: :rocket:
 
