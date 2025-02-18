@@ -14,13 +14,10 @@
 ### Comparison
 
 #### Original
-> Freezes when multiple routes are selected. Laggy.
-
-![bonvue](/bonvue.gif)
-
-#### BonVue
-> Responsive when multiple routes are selected.
 ![bongooriginal](/bongooriginal.gif)
+
+#### Original
+![bonvue](/bonvue.gif)
 
 ## Tools
 
