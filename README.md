@@ -13,10 +13,13 @@
 
 ### Comparison
 
-- GIFs in order (top/bottom): BonVue, `Bongo` original
+#### Original
+> Freezes when multiple routes are selected. Laggy.
 
 ![bonvue](/bonvue.gif)
 
+#### BonVue
+> Responsive when multiple routes are selected.
 ![bongooriginal](/bongooriginal.gif)
 
 ## Tools
